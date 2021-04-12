@@ -5,7 +5,6 @@ published: true
 
 ---
 
-
 Imao sam razgovore sa Igorom o tome šta/ko je true/false. True je neko ili nešto što jeste i radi ono što jeste u suštini. False je sve ostalo. Možda ova definicija nema mnogo smisla, ali ni mi nismo definisali te pojmove, već smo samo davali primjere. 
 Dakle, nekoliko primjera tru(e) stvari, i nekoliko primjera false stvari:
 - Tru(e)

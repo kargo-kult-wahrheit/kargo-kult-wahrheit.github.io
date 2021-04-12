@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kargo Kultovi i istina
+title: Kargo kultovi i istina
 published: true
 
 ---

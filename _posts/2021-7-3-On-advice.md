@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On advice.
+title: On advice
 published: true
 
 ---

@@ -32,7 +32,11 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
+<<<<<<< HEAD
   color: #DC143C;
+=======
+  color: $darkerGray;
+>>>>>>> parent of f9213c0 (Update style.scss)
   font-weight: bold;
 
   line-height: 1.7;
@@ -73,7 +77,11 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
+<<<<<<< HEAD
     color: $pink;
+=======
+    color: $blue;
+>>>>>>> parent of f9213c0 (Update style.scss)
   }
 }
 
@@ -156,7 +164,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $darkGray;
+  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -192,7 +200,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $white;
+  color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +210,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $lightGray;
+  color: $gray;
   font-size: 16px;
 
   @include mobile {
@@ -243,7 +251,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $darkGray;
+  border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
@@ -254,7 +262,7 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $darkGray;
+    border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
@@ -275,7 +283,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $darkGray;
+  background-color: $lightGray;
 }
 
 footer {

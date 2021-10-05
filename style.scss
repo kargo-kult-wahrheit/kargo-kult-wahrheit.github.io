@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -32,15 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-<<<<<<< HEAD
-<<<<<<< HEAD
   color: $darkerGray;
-=======
-  color: $darkerGray;
->>>>>>> parent of f9213c0 (Update style.scss)
-=======
-  color: $darkerGray;
->>>>>>> parent of f9213c0 (Update style.scss)
   font-weight: bold;
 
   line-height: 1.7;
@@ -79,17 +71,9 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    color: $pink;
-=======
     color: $blue;
->>>>>>> parent of f9213c0 (Update style.scss)
-=======
-    color: $blue;
->>>>>>> parent of f9213c0 (Update style.scss)
   }
 }
 

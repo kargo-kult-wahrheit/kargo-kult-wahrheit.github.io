@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kargo kultovi i istina
-published: true
+published: false
 
 ---
 

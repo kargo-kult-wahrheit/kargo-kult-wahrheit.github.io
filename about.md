@@ -1,12 +1,12 @@
 ---
 layout: page
-title: O meni
+title: About
 permalink: /about/
 
 ---
 
-Doktor medicine.
+A student.
 
-### Kontakt
+### Contact
 
-[pandurevic.srdjan@gmail.com](mailto:pandurevic.srdjan@gmail.com)
+[@kargokult_true](https://twitter.com/kargokult_true)

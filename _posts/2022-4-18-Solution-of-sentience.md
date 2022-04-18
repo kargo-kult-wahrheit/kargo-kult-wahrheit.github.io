@@ -4,9 +4,9 @@ title: Solution of sentience
 published: true
 
 ---
-- I'm agent of my creation
+\- I'm agent of my creation
 Says a conscience of wet stuff;
-- My goal's not procreation
+\- My goal's not procreation
 As he drowns in her muff.
 
 Egoistic drive caused the suffering and success,

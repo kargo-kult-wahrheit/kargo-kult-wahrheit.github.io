@@ -4,11 +4,11 @@ title: Solution of sentience
 published: true
 
 ---
-\- I'm agent of my creation
-Says a conscience of wet stuff;
-\- My goal's not procreation
-As he drowns in her muff.
-
+\- I'm agent of my creation  
+Says a conscience of wet stuff;  
+\- My goal's not procreation  
+As he drowns in her muff.  
+  
 Egoistic drive caused the suffering and success,  
 Its cost though undervalued.  
 What can one construct his personality on  

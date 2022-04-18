@@ -11,7 +11,7 @@ As he drowns in her muff.
   
 Egoistic drive caused the suffering and success,  
 Its cost though undervalued.  
-What can one construct his personality on-  
+What can one construct his personality on,  
 Anyway?  
   
 It is dissolving away lately,  
